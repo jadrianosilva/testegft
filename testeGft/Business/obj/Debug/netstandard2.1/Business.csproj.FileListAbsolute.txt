@@ -1,0 +1,8 @@
+C:\Users\jjsilva\source\repos\testeGft\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
+C:\Users\jjsilva\source\repos\testeGft\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\jjsilva\source\repos\testeGft\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\jjsilva\source\repos\testeGft\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\jjsilva\source\repos\testeGft\Business\bin\Debug\netstandard2.1\Common.dll
+C:\Users\jjsilva\source\repos\testeGft\Business\bin\Debug\netstandard2.1\Dados.dll
+C:\Users\jjsilva\source\repos\testeGft\Business\bin\Debug\netstandard2.1\Interfaces.dll
+C:\Users\jjsilva\source\repos\testeGft\Business\bin\Debug\netstandard2.1\Repository.dll

@@ -1,0 +1,5 @@
+C:\Users\jjsilva\source\repos\testeGft\Interfaces\obj\Debug\netstandard2.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\jjsilva\source\repos\testeGft\Interfaces\obj\Debug\netstandard2.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\jjsilva\source\repos\testeGft\Interfaces\obj\Debug\netstandard2.1\Interfaces.AssemblyInfo.cs
+C:\Users\jjsilva\source\repos\testeGft\Interfaces\obj\Debug\netstandard2.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\jjsilva\source\repos\testeGft\Interfaces\bin\Debug\netstandard2.1\Repository.dll
