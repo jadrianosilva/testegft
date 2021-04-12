@@ -74,7 +74,7 @@ namespace Business
             TradeDAO oTrade = new TradeDAO();
 
             try
-            { 
+            {
                 if (pIdTrade == 0)
                 {
                     throw new Exception("Código do Trade não informado.");
@@ -85,6 +85,7 @@ namespace Business
                 {
                     throw new Exception("Ocorreu um erro ao atualizar o Trade");
                 }
+            }
             catch (Exception ex)
             {
                 throw ex;
@@ -146,7 +147,7 @@ namespace Business
                     {
                         foreach (TradeCategoryDTO pRetorno in oReturn)
                         {
-                            sReturn += pRetorno.dsCategory = ",";
+                            sReturn += pRetorno.dsCategory + ",";
                         }                        
                     }
                 }

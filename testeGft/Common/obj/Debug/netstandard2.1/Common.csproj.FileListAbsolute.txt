@@ -1,0 +1,8 @@
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Common\bin\Debug\netstandard2.1\Common.deps.json
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Common\bin\Debug\netstandard2.1\Common.dll
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Common\bin\Debug\netstandard2.1\Common.pdb
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Common\obj\Debug\netstandard2.1\Common.AssemblyInfoInputs.cache
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Common\obj\Debug\netstandard2.1\Common.AssemblyInfo.cs
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Common\obj\Debug\netstandard2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Common\obj\Debug\netstandard2.1\Common.dll
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Common\obj\Debug\netstandard2.1\Common.pdb

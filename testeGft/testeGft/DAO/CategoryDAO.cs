@@ -119,8 +119,8 @@ namespace Dados.DAO
                 {
                     CategoryDTO oCategory = new CategoryDTO();
 
-                    oCategory.idCategory = int.Parse(item["idCategory"].ToString());
-                    oCategory.dsCategory = int.Parse(item["dsCategory"].ToString());
+                    oCategory.idCategory = int.Parse(oData["idCategory"].ToString());
+                    oCategory.dsCategory = oData["dsCategory"].ToString();
 
                     oReturn.Add(oCategory);
                 }
@@ -158,8 +158,8 @@ namespace Dados.DAO
                 {
                     CategoryDTO oCategory = new CategoryDTO();
 
-                    oCategory.idCategory = int.Parse(item["idCategory"].ToString());
-                    oCategory.dsCategory = int.Parse(item["dsCategory"].ToString());
+                    oCategory.idCategory = int.Parse(oData["idCategory"].ToString());
+                    oCategory.dsCategory = oData["dsCategory"].ToString();
 
                     oReturn.Add(oCategory);
                 }

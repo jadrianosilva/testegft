@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cuzwtPTMglHkxzVi6u+QSHQzKGNZ1flImGLNWue4kZV0bg88bGSvaAJeDY+G5qNGH7vOgHFEOFXxveJRDJH0jQ==",
+  "dgSpecHash": "Exd1hnTFb9a+Y2CFexFaRLpmqarxlpoqHd7eSt+5Iw4lBH9nevqjQ9UiOdDNYZVkVxzLuaj/LNJvrYFlM4zQ5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jjsilva\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\jjsilva\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Common\\Common.csproj",
+      "projectPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\jjsilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Common\\obj\\",
+      "outputPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

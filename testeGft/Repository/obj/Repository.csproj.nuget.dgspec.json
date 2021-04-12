@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Repository\\Repository.csproj": {}
+    "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Repository\\Repository.csproj": {
+    "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\jjsilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

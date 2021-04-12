@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Text;
 using System.Data;
 using System.Data.SqlClient;
-using System.Data.;
 using Repository.Repositorio;
 using Interfaces.Interfaces;
 using Common;

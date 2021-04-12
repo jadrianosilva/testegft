@@ -11,6 +11,6 @@ namespace Interfaces.Interfaces
         bool update(List<RangeDTO> pRange);
         bool delete(int pIdRange);
         List<RangeDTO> listCategory();
-        List<RangeDTO> getCategoryByID(int pIdRange)
+        List<RangeDTO> getCategoryByID(int pIdRange);
     }
 }

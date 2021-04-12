@@ -38,5 +38,4 @@ namespace Repository.Repositorio
 			set { _dsSector = value; }
 		}
 	}
-	}
 }

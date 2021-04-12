@@ -2,3 +2,12 @@ C:\Users\jjsilva\source\repos\testeGft\Repository\obj\Debug\netstandard2.1\Repos
 C:\Users\jjsilva\source\repos\testeGft\Repository\obj\Debug\netstandard2.1\Repository.AssemblyInfoInputs.cache
 C:\Users\jjsilva\source\repos\testeGft\Repository\obj\Debug\netstandard2.1\Repository.AssemblyInfo.cs
 C:\Users\jjsilva\source\repos\testeGft\Repository\obj\Debug\netstandard2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Repository\bin\Debug\netstandard2.1\Repository.deps.json
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Repository\bin\Debug\netstandard2.1\Repository.dll
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Repository\bin\Debug\netstandard2.1\Repository.pdb
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Repository\obj\Debug\netstandard2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Repository\obj\Debug\netstandard2.1\Repository.AssemblyInfo.cs
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Repository\obj\Debug\netstandard2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Repository\obj\Debug\netstandard2.1\Repository.dll
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Repository\obj\Debug\netstandard2.1\Repository.pdb
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Repository\obj\Debug\netstandard2.1\Repository.csprojAssemblyReference.cache

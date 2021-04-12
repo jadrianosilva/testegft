@@ -3,3 +3,15 @@ C:\Users\jjsilva\source\repos\testeGft\Interfaces\obj\Debug\netstandard2.1\Inter
 C:\Users\jjsilva\source\repos\testeGft\Interfaces\obj\Debug\netstandard2.1\Interfaces.AssemblyInfo.cs
 C:\Users\jjsilva\source\repos\testeGft\Interfaces\obj\Debug\netstandard2.1\Interfaces.csproj.CoreCompileInputs.cache
 C:\Users\jjsilva\source\repos\testeGft\Interfaces\bin\Debug\netstandard2.1\Repository.dll
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Interfaces\bin\Debug\netstandard2.1\Interfaces.deps.json
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Interfaces\bin\Debug\netstandard2.1\Interfaces.dll
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Interfaces\bin\Debug\netstandard2.1\Interfaces.pdb
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Interfaces\bin\Debug\netstandard2.1\Repository.dll
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Interfaces\bin\Debug\netstandard2.1\Repository.pdb
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Interfaces\obj\Debug\netstandard2.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Interfaces\obj\Debug\netstandard2.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Interfaces\obj\Debug\netstandard2.1\Interfaces.AssemblyInfo.cs
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Interfaces\obj\Debug\netstandard2.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Interfaces\obj\Debug\netstandard2.1\Interfaces.csproj.CopyComplete
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Interfaces\obj\Debug\netstandard2.1\Interfaces.dll
+C:\Users\jjsilva\source\repos\testeGft\testeGft\Interfaces\obj\Debug\netstandard2.1\Interfaces.pdb

@@ -771,11 +771,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\jjsilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Business\\obj\\",
+      "outputPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -799,14 +799,14 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Interfaces\\Interfaces.csproj"
+            "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Interfaces\\Interfaces.csproj"
             },
-            "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\Repository\\Repository.csproj"
+            "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Repository\\Repository.csproj"
             },
-            "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Dados.csproj": {
-              "projectPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\Dados.csproj"
+            "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\testeGft\\Dados.csproj": {
+              "projectPath": "C:\\Users\\jjsilva\\source\\repos\\testeGft\\testeGft\\testeGft\\Dados.csproj"
             }
           }
         }

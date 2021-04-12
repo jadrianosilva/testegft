@@ -12,6 +12,6 @@ namespace Interfaces.Interfaces
         bool delete(int pIdTrade);
         List<TradeDTO> listTrade();
         List<TradeDTO> getTradeByID(int pIdTrade);
-        string getSectorTrade(TradeDTO pTrade);
+        List<TradeCategoryDTO> getSectorTrade(TradeDTO pTrade);
     }
 }

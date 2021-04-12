@@ -187,27 +187,46 @@ namespace Dados.DAO
         public List<TradeCategoryDTO> getSectorTrade(TradeDTO pTrade)
         {
             List<TradeCategoryDTO> oReturn = new List<TradeCategoryDTO>();
-            SqlConnection sqlCon = DBLibrary.OpenConnection();
+            //SqlConnection sqlCon = DBLibrary.OpenConnection();
 
             try
             {
-                SqlCommand sqlCmd = new SqlCommand();
+                //SqlCommand sqlCmd = new SqlCommand();
 
-                sqlCmd.Connection = sqlCon;
-                sqlCmd.CommandType = CommandType.StoredProcedure;
-                sqlCmd.CommandText = "sp_tradeCategory_sector";
-                sqlCmd.Parameters.AddWithValue("@TradeValue", pTrade.tradeValue);
-                sqlCmd.Parameters.AddWithValue("@DsSector", pTrade.dsSector);
+                //sqlCmd.Connection = sqlCon;
+                //sqlCmd.CommandType = CommandType.StoredProcedure;
+                //sqlCmd.CommandText = "sp_tradeCategory_sector";
+                //sqlCmd.Parameters.AddWithValue("@TradeValue", pTrade.tradeValue);
+                //sqlCmd.Parameters.AddWithValue("@DsSector", pTrade.dsSector);
 
-                var oData = sqlCmd.ExecuteReader();
+                //var oData = sqlCmd.ExecuteReader();
 
-                while (oData.Read() == true)
+                //while (oData.Read() == true)
+                //{
+                //    TradeCategoryDTO oTrade = new TradeCategoryDTO();
+
+                //    oTrade.dsCategory = oData["dsCategory"].ToString();
+
+                //    oReturn.Add(oTrade);
+                //}
+                string[,] aTrade = new string[3, 4] { {"1000001","3000000", "Private" , "HIGHRISK"}, 
+                                                      {"1000001","3000000", "Public" , "MEDIUMRISK"},
+                                                      {"300001","500000", "Public" , "LOWRISK"} };
+
+                int i = 0;
+                for (i = 0; i < aTrade.GetLength(0); i++)
                 {
-                    TradeCategoryDTO oTrade = new TradeCategoryDTO();
+                  
+                    if ((pTrade.tradeValue> int.Parse(aTrade[i,0].ToString()) && pTrade.tradeValue <= int.Parse(aTrade[i, 1].ToString())) &&
+                       (pTrade.dsSector == aTrade[i, 2].ToString()))
+                    {
+                        TradeCategoryDTO oTrade = new TradeCategoryDTO();
 
-                    oTrade.dsCategory = oData["dsCategory"].ToString();
+                        oTrade.dsCategory = aTrade[i, 3].ToString();
 
-                    oReturn.Add(oTrade);
+                        oReturn.Add(oTrade);
+                    }
+
                 }
             }
             catch (Exception ex)
@@ -216,7 +235,7 @@ namespace Dados.DAO
             }
             finally
             {
-                sqlCon.Close();
+                //sqlCon.Close();
             }
 
             return oReturn;
